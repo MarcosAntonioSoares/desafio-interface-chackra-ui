@@ -31,7 +31,6 @@ Tecnologias
 <!--te-->
 
 <h2>Instalação</h2>
-<<<<<<< HEAD
 
 ```bash
 # Clone o repositório em alguma pasta em sua máquina
@@ -51,8 +50,3 @@ $ yarn server
 
 Abra http://localhost:3000 no seu navegador para visualizar o projeto
 ```
-=======
-```bash
-
-```
->>>>>>> c69184b0e0cef5715a7c566f8ff78c834cfd42de
