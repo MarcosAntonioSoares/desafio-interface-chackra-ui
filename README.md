@@ -18,7 +18,35 @@
     <img src="https://github.com/MarcosAntonioSoares/MarcosAntonioSoares/blob/main/mobile2.png" width="250" />
 </p>
 
-# Clonar Repositório
+Tecnologias
+===================
+
+<!--ts-->
+   * <a href="https://pt-br.reactjs.org/">React</a>
+   * <a href="https://nextjs.org/">Next.js</a>
+   * <a href="https://www.typescriptlang.org/">TypeScript</a>
+   * <a href="https://github.com/typicode/json-server">JSON Server</a>
+   * <a href="https://chakra-ui.com/">Chakra UI</a>
+   * <a href="https://swiperjs.com/">Swiper</a>
+<!--te-->
+
+<h2>Instalação</h2>
+
 ```bash
-git clone https://github.com/MarcosAntonioSoares/desafio-interface-chackra-ui.git
+# Clone o repositório em alguma pasta em sua máquina
+$ git clone https://github.com/MarcosAntonioSoares/desafio-interface-chackra-ui.git
+
+# Entre no repositório
+$ cd desafio-interface-chackra-ui
+
+Instale as dependências digitando no termimal:
+$ yarn install
+
+Rode a aplicação no modo de desenvolvimento.
+$ yarn dev
+
+Rode o servidor Json server
+$ yarn server
+
+Abra http://localhost:3000 no seu navegador para visualizar o projeto
 ```
